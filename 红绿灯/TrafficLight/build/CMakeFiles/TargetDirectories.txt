@@ -1,3 +1,0 @@
-/home/zhao/Desktop/c/HelloCV/TrafficLight/build/CMakeFiles/traffic_light.dir
-/home/zhao/Desktop/c/HelloCV/TrafficLight/build/CMakeFiles/edit_cache.dir
-/home/zhao/Desktop/c/HelloCV/TrafficLight/build/CMakeFiles/rebuild_cache.dir
